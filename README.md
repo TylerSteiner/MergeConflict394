@@ -1,3 +1,3 @@
-# MergeConflict394
-
-This is the change from merge-conflict-activity-1 branch.
+This file contains both:
+- The change from merge-conflict-activity-1 branch.
+- The change from merge-conflict-activity-2 branch.
